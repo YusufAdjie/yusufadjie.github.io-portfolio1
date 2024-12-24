@@ -1,0 +1,96 @@
+.jumbotron {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  background-color: #cecfed;
+  margin-bottom: -20px;
+}
+
+.jumbotron img:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  border-color: yellow;
+}
+
+.linkedin:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+.jumbotron p {
+  margin-bottom: 1px;
+}
+
+#projects {
+  background-color: #cecfed;
+}
+
+#projects img:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#about {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  /* The image used */
+  background-image: url("img/nordwood-themes-524102-unsplash.jpg");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#contact {
+  padding-bottom: 10rem;
+  /* The image used */
+  background-image: url("img/zachary-3Q-_4F_Xxi4-unsplash-long-long.jpg");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  /* The image used */
+  background-image: url("img/zachary-3Q-_4F_Xxi4-unsplash-long-long-movie.jpg");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#projects {
+  padding-bottom: 6rem;
+  /* The image used */
+  background-image: url("img/gundam1.jpg");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
